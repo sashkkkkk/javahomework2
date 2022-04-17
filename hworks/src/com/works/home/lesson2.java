@@ -1,4 +1,4 @@
-package com.homeworks;
+package com.works.home;
 
 public class lesson2 {
     public static void main(String[] args) {
@@ -47,3 +47,4 @@ public class lesson2 {
 
 
 }
+
