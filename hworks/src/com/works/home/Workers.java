@@ -34,12 +34,11 @@ public class Workers {
             workersArray[3] = new Workers("Петр Петров", "Директор", "pp@mail.ru", 9334567, 80000, 47);
             workersArray[4] = new Workers("Ольга Ольгина", "Бухгалтер", "oo@mail.ru", 9212144, 55000, 41);
 
-            int ag = this.age;
 
-            if (ag > 40) {
+
+
                 System.out.println(Arrays.toString(workersArray));
             }
-        }
 
     }
 
